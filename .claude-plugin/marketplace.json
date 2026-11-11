@@ -1,0 +1,17 @@
+{
+  "name": "a-0-1",
+  "owner": {
+    "name": "Association of One",
+    "url": "https://assoc.one"
+  },
+  "metadata": {
+    "description": "AI agents you run like a system."
+  },
+  "plugins": [
+    {
+      "name": "a-0-1",
+      "source": "./plugins/a-0-1",
+      "description": "The A-0-1 system: the operating model for running AI agents like a team."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "a-0-1",
+  "displayName": "A-0-1",
+  "version": "0.1.0",
+  "description": "The A-0-1 system: the operating model for running AI agents like a team.",
+  "author": { "name": "Association of One", "url": "https://assoc.one" },
+  "homepage": "https://agents.assoc.one",
+  "repository": "https://github.com/assoc-one/a-0-1",
+  "license": "CC-BY-NC-SA-4.0",
+  "keywords": ["agents", "operating-model", "workflow"],
+  "dependencies": []
+}
