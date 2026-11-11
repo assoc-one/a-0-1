@@ -2,7 +2,16 @@
 
 AI agents you run like a system, by [Association of One](https://agents.assoc.one).
 
-Work in progress. Install instructions will appear here when the first plugin ships.
+## Install
+
+In Claude Code:
+
+```
+/plugin marketplace add assoc-one/a-0-1
+/plugin install a-0-1@a-0-1
+```
+
+This is the early release: the system plugin only. Agent plugins (Pixel first) will be added to this marketplace and pulled in by the system plugin.
 
 ## Licence
 
